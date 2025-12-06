@@ -1,0 +1,5 @@
+{
+  "name": "Daejeon Travel Guide AI",
+  "description": "An interactive AI chatbot specializing in travel information for Daejeon, South Korea. Features real-time information using Google Search grounding to provide the best tips on science museums, nature spots, and the famous Sung Sim Dang bakery.",
+  "requestFramePermissions": []
+}
